@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iagcomp2", "iagcomp2.csproj", "{DE2F9BF2-F792-493C-A77E-427196D1CF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2F9BF2-F792-493C-A77E-427196D1CF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2F9BF2-F792-493C-A77E-427196D1CF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2F9BF2-F792-493C-A77E-427196D1CF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2F9BF2-F792-493C-A77E-427196D1CF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
